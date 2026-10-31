@@ -7,13 +7,14 @@
 
  
  ####  ʞ'bit, welcome. 
-<div align="center">
+
  ```
      ʞ⋌ & ⋋k
 ʞ.[ị]'k * ʞ'[ị].k
        [.]
  ```
-</div>
 
 
+# k'
+<img width="553" height="118" alt="image" src="https://github.com/user-attachments/assets/7b50810b-5fc1-46f2-8634-49fc1bf5a874" />
 
