@@ -8,9 +8,11 @@
  
  ####  ʞ'bit, welcome. 
 <div align="center">
+ ```
      ʞ⋌ & ⋋k
 ʞ.[ị]'k * ʞ'[ị].k
        [.]
+ ```
 </div>
 
 
