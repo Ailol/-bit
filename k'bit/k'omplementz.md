@@ -4,5 +4,3 @@
 
 
 
-
-<img width="217" height="228" alt="image" src="https://github.com/user-attachments/assets/9a665a4b-d570-4242-8211-7037fd555665" />
