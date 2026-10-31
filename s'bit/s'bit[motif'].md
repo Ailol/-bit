@@ -14,6 +14,14 @@ s'bit[compacted cognition]{
  }into(co'tending);
 ```
 
+```
+s'bit[compacted cognition]{
+    =: gather / co-history;
+    ≡: [h[zet{set]tez}m];
+    %: pf'kernel strukturer(drop in and out); diffikutl to explain :) 
+}co'tending;
+```
+
 
 s'bit['1 st.grade']{
    suga: first year was to teach how to structure advanced data with letters and words.
