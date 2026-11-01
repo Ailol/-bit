@@ -24,4 +24,7 @@ k'bit{
     if{	ʞ ' }((stemmed') 'orient on others [♻]. is there a need to stem others before? :)  
  }into{k.style};
  ```
+<div align="center">
+<img width="1109" height="650" alt="KongoLioStyleHelpsToDraw drawio" src="https://github.com/user-attachments/assets/ad75d876-bab7-4cf2-9565-4bc108600c57" />
+</div>
 
