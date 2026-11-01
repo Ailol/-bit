@@ -8,8 +8,10 @@ t'f'bit {
     vs 
    = 
 }into(definit' vs where can it be used);
+```
+#### qck.ex
+```
 
-eksampple
  s'bit[training motion in mind]{
  suga:doesnt work, there is no data[assumption] 
     ' 
