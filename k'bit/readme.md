@@ -1,4 +1,4 @@
-# k'bit
+# k'bit (the ceo / cto in 25 lines)
 a qck way of k'it aint me then. 
 ʞ ' killing of others through their view ideas and your understanding usually is greater when the 	ʞ feel arises :) 
 
