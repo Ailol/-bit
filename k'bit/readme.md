@@ -1,3 +1,17 @@
+# k'bit
+a qck way of k'it aint me then. 
+ʞ ' killing of others through their view ideas and your understanding usually is greater when the 	ʞ feel arises :) 
+
+```
+k'bit{
+     ♻ (un'stemmed) ⊲ ≡ Δ[stem'cell] [  ∫(intergration issues⚡< show of moment]⟹ ↺ differnetiated_now_possibilites};
+    if{	ʞ ' }((stemmed') 'orient on others [♻]. is there a need to stem others before? :)  
+ }into{k.style};
+ ```
+
+
+
+
 # kreativ'
 
 <img width="256" height="43" alt="image" src="https://github.com/user-attachments/assets/996b060a-5eb2-4a0c-9e9e-2277a7fba4bc" />
