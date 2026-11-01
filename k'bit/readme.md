@@ -12,9 +12,8 @@ k'bit
 \;\xrightarrow{\;⊲\;}\;
 \underbrace{≡ \space Δ\text{[stem'cell]}}_{\text{meets the boundary}}
 \Bigr]
-\\[8pt]
 \end{aligned}
-
+$$
 
 ```
 k'bit{
