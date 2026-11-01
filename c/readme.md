@@ -15,6 +15,6 @@ Suga
 → vectorz
 → Gradient/Potential. 
 cmt'op{spice maintains energetic gradient/potential}
-
-
 ```
+
+> co'tending → ✦ → Suga (Stabilization/Vector) ← ✧ ← Spice (Gradient/Potential).
