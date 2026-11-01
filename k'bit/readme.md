@@ -8,9 +8,9 @@ $$
 k'bit
 &=
 \Bigl[
-\underbrace{♻ \space \text{(un'stemmed)}}_{\text{could become anything}}
+\underbrace{♻ \space \text{(un'stemmed)}}_}
 \;\xrightarrow{\;⊲\;}\;
-\underbrace{≡ \space Δ\text{[stem'cell]}}_{\text{meets the boundary}}
+\underbrace{≡ \space Δ\text{[stem'cell]}}_}
 \Bigr]
 \end{aligned}
 $$
