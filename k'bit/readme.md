@@ -2,9 +2,17 @@
 a qck way of k'it aint me then. 
 ʞ ' killing of others through their view ideas and your understanding usually is greater when the 	ʞ feel arises :) 
 
-<div align="center">
-$${\color{gray}♻ \space (un'stemmed) \space ⊲ \space ≡ \space Δ[stem'cell]}$$
-</div>
+
+\begin{aligned}
+k'bit
+&=
+\Bigl[
+\underbrace{♻ \space \text{(un'stemmed)}}_{\text{could become anything}}
+\;\xrightarrow{\;⊲\;}\;
+\underbrace{≡ \space Δ\text{[stem'cell]}}_{\text{meets the boundary}}
+\Bigr]
+\\[8pt]
+\end{aligned}
 
 ```
 k'bit{
