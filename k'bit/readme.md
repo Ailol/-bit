@@ -2,6 +2,10 @@
 a qck way of k'it aint me then. 
 ʞ ' killing of others through their view ideas and your understanding usually is greater when the 	ʞ feel arises :) 
 
+<div align="center">
+$${\color{gray}♻ \space (un'stemmed) \space ⊲ \space ≡ \space Δ[stem'cell]}$$
+</div>
+
 ```
 k'bit{
      ♻ (un'stemmed) ⊲ ≡ Δ[stem'cell] [  ∫(intergration issues⚡< show of moment]⟹ ↺ differnetiated_now_possibilites};
