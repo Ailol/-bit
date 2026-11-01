@@ -3,6 +3,7 @@ a qck way of k'it aint me then.
 ʞ ' killing of others through their view ideas and your understanding usually is greater when the 	ʞ feel arises :) 
 
 
+$$
 \begin{aligned}
 k'bit
 &=
@@ -13,6 +14,7 @@ k'bit
 \Bigr]
 \\[8pt]
 \end{aligned}
+
 
 ```
 k'bit{
