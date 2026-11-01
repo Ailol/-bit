@@ -15,6 +15,9 @@ k'bit
 \end{aligned}
 $$
 
+> underbrackets is a quick way of stemming your interests or a'bit{ambition etc}
+
+
 ```
 k'bit{
      ♻ (un'stemmed) ⊲ ≡ Δ[stem'cell] [  ∫(intergration issues⚡< show of moment]⟹ ↺ differnetiated_now_possibilites};
