@@ -14,4 +14,7 @@ Suga
 → Stabilization, Spice 
 → vectorz
 → Gradient/Potential. 
+cmt'op{spice maintains energetic gradient/potential}
+
+
 ```
