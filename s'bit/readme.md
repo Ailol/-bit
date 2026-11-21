@@ -1,8 +1,6 @@
-# s'bitz , no idea but 
+# s'bit - the bit that is a byte to handle. 
 
-
-> Suga interaction stabilizes vector
-
-whereas 
-
-> spice integration maintains 
+s'bit{
+ suga ' я - after action
+ spicy ' я - during action
+}into(residualz);
