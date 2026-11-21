@@ -1,4 +1,6 @@
-## t'bit, the form of interakt
+## t'bit ' me in forms
+is my body summed in cpu/gpu 10x better me or 10 worse?
+min/max is this :) 
 
 a great way of understanding a role to encompass is the 3.0s vs 0.3s
 
