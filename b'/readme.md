@@ -1,2 +1,2 @@
 # Bio'chain is the simplest form atm
-[!link](www.github.com/ailol/biochain)
+[noobz learn the biochain before you hack](https://github.com/ailol/biochain)
