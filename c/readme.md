@@ -3,18 +3,13 @@
 
 c=prepp
 
-then a good word from nemotron for understanding each other quickly is
-
-> co'tending
-
-as that sets the 
+The t'furi(lasts forever)
 ```
-Suga 
-→ vektors. 
-→ Stabilization, Spice 
-→ vectorz
-→ Gradient/Potential. 
-cmt'op{spice maintains energetic gradient/potential}
+1 legendary c'prepp is to actually do a c'genes(see your own genes, and macular disease is where you find out is the associative space actually just macular disease where the body thinks a shorterm change is the way, but actually is a forever running process :) )
 ```
-
-> co'tending → ✦ → Suga (Stabilization/Vector) ← ✧ ← Spice (Gradient/Potential).
+`running system`
+```
+That updates the running system with "hard fakts on where you never win, but always "dancze" to gain the best that you can :)
+"running system" is to buy a myheritage or some dna test you do self work on(as dyor sets the givens effekt)
+then you know how much you trust it. word of mouth isnt that.
+```
