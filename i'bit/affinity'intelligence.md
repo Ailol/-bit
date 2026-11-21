@@ -12,3 +12,12 @@ so first bioz kvante' model is requested to fight for, that all chats in the end
 <img width="42%" alt="image" src="https://github.com/user-attachments/assets/b7137512-d027-4654-91fe-f8f6284159d7" />
 
 </div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+stop being wannabe' and start doing
+
+(dont think about the end terminal, build the end d'term, then enjoy it. idiots.)
