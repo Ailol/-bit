@@ -9,25 +9,25 @@
   <br>
 
   <p>
-    Think of the <b>raw weights</b> —<br>
-    before the A–Z of presentation,<br>
-    before thought takes the shape of a sentence.
+    <b>raw weights</b> —<br>
+    shape the biaz as forward momentum.
+    
   </p>
 
   <p>
-    <sub>A way to picture AI weights alongside human thought.</sub>
+    <sub>as weightz is essential last step before z' genetiks come in (affinity)</sub>
   </p>
 
   <br>
 
-  <b>weights → interpretation → expression</b>
+  <b>weights permeate </b>
 
   <br><br>
 
   <p>
     In this picture, <b>x’cortex</b> is the end result of Xet models.<br>
-    The <b>matrix</b> represents how the cipher unfolds in the mind —<br>
-    with room for countless styles, changing with the day. :)
+    The <b>cortex</b> (current idea) is guided by xet model. —<br>
+    with room for artificial in the a'bit. changing based on security <3 . :)
   </p>
 
 </div>
