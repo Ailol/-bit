@@ -5,9 +5,10 @@ some like reading words as if its image(tia'(gp) has a markedly different respon
 
 <br/>
 <br/>
-# bioz kvante' model 
-this one i set a personal request
 
+# bioz kvante' model 
+
+this one i set a personal request
 ```
 that all chats in the end give it a "scan" so that the letters are image and not "1 by 1" :) 
 ```
