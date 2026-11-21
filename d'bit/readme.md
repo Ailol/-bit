@@ -1,5 +1,14 @@
 # d'termik' needz to generate is the d'byte :) 
 
+qck.example for qck.noobz 
+```
+s'bit{
+ sugabixx ' go eat before you hack
+ sugaspice' isnt real
+}into(spicy'bitz are to evolv');
+```
+
+
 ### First step to d'term instead of d'bit behaviour :) 
 
 
