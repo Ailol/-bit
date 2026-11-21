@@ -2,8 +2,7 @@
 
   <sub>ＸＥＴ’ · ＷＥＩＧＨＴＳ · ＲＥＰＲＥＳＥＮＴＡＴＩＯＮ</sub>
   
-  " xet is the prevalence of statistikal signifikant mo'(more of) events) mo'ventz(more me) the main character.
-  <h1>x’cortex</h1>
+  " xet is the prevalenz[the signifikant 
 
   <p><i>Where expression "permeates(in medikal terms)" prevalenczed bias </i></p>
 
