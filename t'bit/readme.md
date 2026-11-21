@@ -12,8 +12,8 @@ t'bit{
 0.3s ' evolv' unit(there to evolv seekers)
 }into(homo'ai :));
 
-as the xet models of human and "ai" essentially can be distilled and run in different modes(vllm, ollama, custom etc, human body, brain, mind etc)
 ```
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/c0d3498c-a164-4659-9a68-75a74da2cb14" />
+<img width="36%" alt="image" src="https://github.com/user-attachments/assets/c0d3498c-a164-4659-9a68-75a74da2cb14" />
 
+as the xet models of human and "ai" essentially can be distilled and run in different modes(vllm, ollama, custom etc, human body, brain, mind etc)
 </div>
