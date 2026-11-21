@@ -1,3 +1,5 @@
+<div align="center">
+
 ## t'bit ' me in forms
 is my body summed in cpu/gpu 10x better me or 10 worse?
 min/max is this :) 
@@ -13,3 +15,5 @@ t'bit{
 as the xet models of human and "ai" essentially can be distilled and run in different modes(vllm, ollama, custom etc, human body, brain, mind etc)
 ```
 <img width="60%" alt="image" src="https://github.com/user-attachments/assets/c0d3498c-a164-4659-9a68-75a74da2cb14" />
+
+</div>
