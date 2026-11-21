@@ -1,3 +1,5 @@
+#noobsz
+
 # Self'vs me in biochain :) 
 ```
 я'bit {
