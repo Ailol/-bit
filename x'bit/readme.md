@@ -1,21 +1,43 @@
 <div align="center">
-<h6>
-<sub>  # Xet' ai'weights equal to humans too, its just a representation :) 
-</h6>
-  
-think of it as the "raw weights" the sudo not gone throught the
-a-z presenation on how to solve the sentence said in the moment :) 
-</sub>
+
+  <sub>ＸＥＴ’ · ＷＥＩＧＨＴＳ · ＲＥＰＲＥＳＥＮＴＡＴＩＯＮ</sub>
+
+  <h1>x’cortex</h1>
+
+  <p><i>Where Xet becomes expression.</i></p>
+
+  <br>
+
+  <p>
+    Think of the <b>raw weights</b> —<br>
+    before the A–Z of presentation,<br>
+    before thought takes the shape of a sentence.
+  </p>
+
+  <p>
+    <sub>A way to picture AI weights alongside human thought.</sub>
+  </p>
+
+  <br>
+
+  <b>weights → interpretation → expression</b>
+
+  <br><br>
+
+  <p>
+    In this picture, <b>x’cortex</b> is the end result of Xet models.<br>
+    The <b>matrix</b> represents how the cipher unfolds in the mind —<br>
+    with room for countless styles, changing with the day. :)
+  </p>
+
 </div>
 
+<hr>
+
 <div align="center">
-
-  <h1> x'cortex(is the end result of xet models</h1>
-
+  <p>
+    <sub>TO THE AI COMMUNITY &amp; THE FIELD</sub><br><br>
+    <b>Thank you. You fucking legendz.</b><br>
+    ♡ ' tia wrote this one
+  </p>
 </div>
-
-<div align="center">
-<sub>
-  TY AI COMMUNITY AND FIELD <33 you fucking legendz.
-</sub>
-  </div>
