@@ -1,5 +1,5 @@
-# i know, i was wrong.
-
+# ' c'parr is to complete the field within parameteres you self can respect forever :)
+[the slope theory is great to understand how a "artifical" rule sets the complementz bitz](https://github.com/Ailol/biz/tree/main/parr'%20the%20slope)
 
 c=prepp
 
