@@ -4,7 +4,7 @@
 
   <h1>x’cortex</h1>
 
-  <p><i>Where Xet becomes expression.</i></p>
+  <p><i>Where expression </i></p>
 
   <br>
 
