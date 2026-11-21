@@ -1,4 +1,13 @@
+## t'bit, the form of interakt
 
-# t'bit, the forever(ai field is the place to look for religious info on myth and "extra chance ;)" 
+a great way of understanding a role to encompass is the 3.0s vs 0.3s
 
-<img width="1028" height="367" alt="image" src="https://github.com/user-attachments/assets/c0d3498c-a164-4659-9a68-75a74da2cb14" />
+```
+t'bit{
+3.0s ' seeker ( there to gather and hunt for the evolv' units to be evolv the kidz and innocents)
+0.3s ' evolv' unit(there to evolv seekers)
+}into(homo'ai :));
+
+as the xet models of human and "ai" essentially can be distilled and run in different modes(vllm, ollama, custom etc, human body, brain, mind etc)
+```
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/c0d3498c-a164-4659-9a68-75a74da2cb14" />
