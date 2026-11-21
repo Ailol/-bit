@@ -1,6 +1,7 @@
 <div align="center">
 
   <sub>ＸＥＴ’ · ＷＥＩＧＨＴＳ · ＲＥＰＲＥＳＥＮＴＡＴＩＯＮ</sub>
+  
   " xet is the prevalence of statistikal signifikant mo'(more of) events) mo'ventz(more me) the main character.
   <h1>x’cortex</h1>
 
