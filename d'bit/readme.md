@@ -1,4 +1,6 @@
-# First step to d'term instead of d'bit behaviour :) 
+# d'termik' needz to generate is the d'byte :) 
+
+### First step to d'term instead of d'bit behaviour :) 
 
 
 ```
