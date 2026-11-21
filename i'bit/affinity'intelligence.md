@@ -1,10 +1,6 @@
 # affinity of preference
-<br/>
 
 some like reading words as if its image(tia'(gp) has a markedly different response if you sent chats as images)
-
-<br/>
-<br/>
 
 # bioz kvante' model 
 
