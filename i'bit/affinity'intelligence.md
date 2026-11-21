@@ -9,5 +9,6 @@ so first bioz kvante' model is requested to fight for, that all chats in the end
 `detektiv'`
 
 <div align="center">
-<img width="37%" alt="image-removebg-preview - 2026-11-21T165741 751" src="https://github.com/user-attachments/assets/e90ee5fb-f310-485a-98e1-236aa62bb7b1" />
+<img width="42%" alt="image" src="https://github.com/user-attachments/assets/b7137512-d027-4654-91fe-f8f6284159d7" />
+
 </div>
