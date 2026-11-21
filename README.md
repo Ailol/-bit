@@ -1,4 +1,11 @@
-# -bit
+# b'
+
+## bit'z become byte. 
+bytez together make a 3.0s, byte is 0.3s and bit only makes til it can be 0.3s.
+
+
+
+## -bit
 'bitz that actually stave of the worst automated processes. 
 
 
