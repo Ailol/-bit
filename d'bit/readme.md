@@ -1,4 +1,5 @@
-# d'term! 
+# d'term <img width="15" height="20" alt="image" src="https://github.com/user-attachments/assets/8d3c6d90-523b-475f-a104-17e47bdb280b" />
+
 
 `currently its bad to memorize programming as its not optimized`
 
