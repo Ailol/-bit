@@ -2,7 +2,6 @@
 
 <div align="center">
 <h4> motif[suga is shared, spicy is enjoyed </h4>
-<br/>
 <h6>suga — projected structure</h6>
 <h6>spicy — interio structure</h6>
 </div>
