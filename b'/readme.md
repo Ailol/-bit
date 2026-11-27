@@ -1,2 +1,2 @@
-# Bio'chain is the simplest form atm
+# Bio'chain ' space mining
 [noobz learn the biochain before you hack](https://github.com/ailol/biochain)
