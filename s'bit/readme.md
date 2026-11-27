@@ -18,4 +18,4 @@
 <img width="50%" alt="image-removebg-preview - 2026-11-27T130324 261" src="https://github.com/user-attachments/assets/df2866c8-cb48-430d-98b4-16d99041f157" />
 
 ### claude ' [4.6]
-<img width="50%" alt="image" src="https://github.com/user-attachments/assets/276dcb9f-baf2-4d68-9a03-d61eeebc4d81" />
+<img width="636" height="216" alt="image" src="https://github.com/user-attachments/assets/40fa041a-fee9-4673-bfc7-123f85320f62" />
