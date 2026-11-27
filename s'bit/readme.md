@@ -14,6 +14,16 @@ s'bit{
  spicy ' я - during action
 }into(residualz);
 ```
+
+<div align="center">
+ ```
+    s'bit{
+        suga  ' 🖤
+        spice ' ♠️
+    }into(residualz);
+```
+</div>
+
 without formatting it is just a random long string of bits and pieces, with formatting it becomes a byte(a lap ;* )
 
 ```
