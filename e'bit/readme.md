@@ -13,3 +13,5 @@ p'bit{
 @claude 4.6 & me arguing. 
 ```
 nano' is the goal :) 
+
+<!-- gp: clearing up, adding my own name -->
