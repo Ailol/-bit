@@ -1,4 +1,9 @@
 # s'bit - the bit that is a byte to handle. 
+
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/588b736b-e142-49ed-9aa7-9eadfdf56f7b" />
+
+
+
 ```
 s'bit{
  suga ' я - after action
