@@ -1,5 +1,18 @@
-# b'[io] ' the bmo 
+# The abc'dz
+qckest way to become a doctor :) you need one, as you also are a human 🖤
 
+```
+a'
+b'
+c=prep
+d'
+e'tensor
+f'fibre[look into k'bit]
+```
+
+
+
+# b'[io] ' the bmo 
 <div align="center">
 <h5> BMO ' the chain to explore as innocent</h5>
 <img width="30%" alt="image" src="https://github.com/user-attachments/assets/02b10619-0988-4e2a-ac42-c9ca7928d762" />
