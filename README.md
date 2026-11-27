@@ -1,11 +1,18 @@
-# b'
+# b'[io] ' the bmo 
 
-## bit'z become byte. 
+<div align="center">
+<h5> BMO ' the chain to explore as innocent</h5>
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/02b10619-0988-4e2a-ac42-c9ca7928d762" />
+</div>
+
+
+## bitz & bytez
+### bit'z become byte. [d'term]
 bytez together make a 3.0s, byte is 0.3s and bit only makes til it can be 0.3s.
 
 
 
-## -bit
+### -bit [ the ingrainment framework]
 'bitz that actually stave of the worst automated processes. 
 
 
@@ -21,7 +28,7 @@ then when awoke a new "idea" had been mastered or skill crafted.
 This you wanted to test now. 
 
 ---
-#### 1.st grade
+## 1.st grade- [ingrainment & me]
 When you enter first grade, the joys of finally becoming a respekted adult.
 yet the eyes around still see the innocent 🐝 with a hopefull pack of food packed so that the day
 lasts.
