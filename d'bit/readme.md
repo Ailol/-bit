@@ -5,7 +5,7 @@
 ```
 d'term{
   raw: compact add "files.compact" alpine:3.22
-  opt: compact alpine 3.22 into "files.compact"
+  opt: compact alpine:3.22 into "files.compact"
 }into( I WIN ;**);
 ```
 
