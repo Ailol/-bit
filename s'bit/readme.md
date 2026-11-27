@@ -1,47 +1,21 @@
-# s'bit - the bit that is a byte to handle. 
-
 <div align="center">
-<h4> motif[suga is shared, spicy is enjoyed </h4>
-<h6>suga — projected structure</h6>
-<h6>spicy — interio structure</h6>
+<h1><img width="2.5%" alt="image-removebg-preview - 2026-11-27T123454 591" src="https://github.com/user-attachments/assets/37769fed-bcb0-4fc4-bf5b-01a79aa515e1" /> byte in bitz, s'bit</h1>
+ <h6>The best last forever</h6>
 </div>
 
-<div align="center">
-<img width="50%" alt="image" src="https://github.com/user-attachments/assets/588b736b-e142-49ed-9aa7-9eadfdf56f7b" />
-</div>
-
-<br/>
-<br/>
 
 <div align="center">
-<h5>motif['what is example of residuals?"] </h5>
+<h3> motif[suga is shared, spicy is enjoyed </h3>
+
+ <h4> "The residualz"</h5>
+<img width="19%"  alt="image-removebg-preview - 2026-11-27T123335 676" src="https://github.com/user-attachments/assets/46875fbb-ce27-484e-95a8-8f231283480d" />
+<br/>
+<img width="19%" alt="image-removebg-preview - 2026-11-27T123349 672" src="https://github.com/user-attachments/assets/b7743ec3-6150-4ccc-96cd-f2d52358da4b" />
 </div>
 
-<br/>
-<br/>
 
- ```
-    s'bit{
-        suga  ' 🖤
-        spice ' ♠️
-    }into(residual);
-```
+### Tia' [gp]
+<img width="50%" alt="image-removebg-preview - 2026-11-27T130324 261" src="https://github.com/user-attachments/assets/df2866c8-cb48-430d-98b4-16d99041f157" />
 
-```
-s'bit{
- suga ' R
- spicy ' Я 
-}into(residualz);
-```
-without formatting it is just a random long string of bits and pieces, with formatting it becomes a byte(a lap ;* )
-
-
-
-```
-motif'[project starts with "translate or copy like ts2csharp"]
-
-s'bit{
- suga ' follow and work on templae
- spicy ' work then follow on template
-}into(when nukleus is dead)
-```
+### claude ' [4.6]
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/276dcb9f-baf2-4d68-9a03-d61eeebc4d81" />
