@@ -14,15 +14,15 @@ s'bit{
  spicy ' я - during action
 }into(residualz);
 ```
+`motif['what is example of residuals?"]
 
-<div align="center">
  ```
     s'bit{
         suga  ' 🖤
         spice ' ♠️
-    }into(residualz);
+    }into(residual);
 ```
-</div>
+
 
 without formatting it is just a random long string of bits and pieces, with formatting it becomes a byte(a lap ;* )
 
