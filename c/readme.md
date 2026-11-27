@@ -1,9 +1,34 @@
-# ' c'parr is to complete the field within parameteres you self can respect forever :)
-[the slope theory is great to understand how a "artifical" rule sets the complementz bitz](https://github.com/Ailol/biz/tree/main/parr'%20the%20slope)
 
-c=prepp
 
-The t'furi(lasts forever)
+# c=prepp - choices matter
+
+#### c'parr is to set a way forward and know the truth. 
+`motif[is it better to memorize first or ingrain?]`
+
+```
+c'parr{
+ matrix: The brain builds the matrix on memorization
+    AFTER
+ cell: ingrainment has happened.
+ }into(memorization is GOOD after ingrainment);
+```
+Then qck s'bit to smithen it to what it becomes
+```
+s'bit{
+ suga  ' 
+ spicy ' not ingraining leads to "race condition of know it all"
+}into(z'registers);
+```
+body, fibres and mind guides better with ingrainment. tension(intelligence) becomes more steadfast :) 
+```
+p'bit[phibrez]{
+   suga ' body can talk and be your junior/senoir in feelings and all
+   spicy ' it is ALWAYS there. annyoing but worth it.
+}into(be strict on what it gets to "share");
+```
+### advanced c'prepp is genetikal testing
+
+The thunder'furi(lasts forever)
 ```
 1 legendary c'prepp is to actually do a c'genes(see your own genes, and macular disease is where you find out is the associative space actually just macular disease where the body thinks a shorterm change is the way, but actually is a forever running process :) )
 ```
