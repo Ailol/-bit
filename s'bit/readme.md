@@ -1,9 +1,11 @@
 # s'bit - the bit that is a byte to handle. 
 
-`motif[suga is shared, spicy is enjoyed`
+<div align="center">
+<h4> motif[suga is shared, spicy is enjoyed </h4>
 <br/>
-`suga — projected structure`
-`spicy — interio structure`
+<h6>suga — projected structure</h6>
+<h6>spicy — interio structure</h6>
+</div>
 
 <div align="center">
 <img width="50%" alt="image" src="https://github.com/user-attachments/assets/588b736b-e142-49ed-9aa7-9eadfdf56f7b" />
