@@ -4,7 +4,7 @@
 <img width="30%" alt="bitstrenger" src="https://github.com/user-attachments/assets/1e447b89-84f7-4846-9590-23f61786d70b" />
 
 
-# qck.exmaple of lingvistikk (it literally is medicine). 
+# qck.example of lingvistikk (it literally is medicine). 
 <div align="center">
 <img width="70%" alt="image" src="https://github.com/user-attachments/assets/c5036919-ee8e-4c6c-b3df-af64614e83de" />
 
