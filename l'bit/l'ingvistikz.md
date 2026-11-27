@@ -1,8 +1,9 @@
 # The most complex part of grammars and vocabulary and speech
 
-## For programmers, its equal to this level
+<div align="center">
+<h5> For programmers, its equal to this level </h5>
 <img width="30%" alt="bitstrenger" src="https://github.com/user-attachments/assets/1e447b89-84f7-4846-9590-23f61786d70b" />
-
+</div>
 
 # qck.example of lingvistikk (it literally is medicine). 
 <div align="center">
