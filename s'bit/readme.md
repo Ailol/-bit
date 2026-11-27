@@ -15,5 +15,6 @@ s'bit{
  spicy ' work then follow on template
 }into(when nukleus is dead)
 ```
-`suga — inherited structure.
-spicy — independently developed structure, subsequently aligned.`
+`suga — inherited structure.`
+
+`spicy — independently developed structure, subsequently aligned.`
