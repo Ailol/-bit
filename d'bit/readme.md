@@ -1,4 +1,15 @@
-# d'termik' needz to generate is the d'byte :) 
+# d'term! 
+
+`currently its bad to memorize programming as its not optimized`
+
+```
+d'term{
+  raw: compact add "files.compact" alpine:3.22
+  opt: compact alpine 3.22 into "files.compact"
+}into( I WIN ;**);
+```
+
+### d'termik' needz to generate is the d'byte :) 
 
 qck.example for qck.noobz 
 ```
